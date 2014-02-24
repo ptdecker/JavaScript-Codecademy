@@ -16,7 +16,9 @@ if (computerChoice < 0.33) {
 	computerChoice = "paper";
 } else {
 	computerChoice = "scissors";
-} console.log("Computer: " + computerChoice);
+}
+
+console.log("Computer: " + computerChoice);
 
 // Helper function to see if the both choices match two particular values (i.e.
 // one of the choices is one value and the other choice is the other value. This
