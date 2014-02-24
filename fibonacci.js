@@ -9,7 +9,7 @@ if (numberToDisplay > 0) {
     fibs.push(0);
     if (numberToDisplay > 1) {
         fibs.push(1);
-        for (i = 2; i < numberToDisplay; i++) {
+        for (var i = 2; i < numberToDisplay; i++) {
             fibs.push(fibs[i - 2] + fibs[i - 1]);
         }
     }
