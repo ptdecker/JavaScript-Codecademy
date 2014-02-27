@@ -1,6 +1,30 @@
 // Calculate some Fibonacci numbers to demonstrate 'for'
 // loops, arrays, and 'if' statements.
 
+/* To run this in JSFiddle, set HTML to:
+
+<div id="console-log"></div>
+
+CSS to:
+
+{
+.console-line
+    font-family: monospace;
+    margin: 2px;
+}
+
+And uncomment:
+
+var consoleLine = "<p class=\"console-line\"></p>";
+ 
+console = {
+    log: function (text) {
+        $("#console-log").append($(consoleLine).html(text));
+    }
+};
+
+*/
+
 var numberToDisplay = prompt("How many numbers do you want?");
 
 var fibs = [];
