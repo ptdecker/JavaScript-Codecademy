@@ -2,6 +2,30 @@
 * Simple "Rock, Paper, Scissors" Game *
 ***************************************/
 
+/* To run this in JSFiddle, set HTML to:
+
+<div id="console-log"></div>
+
+CSS to:
+
+{
+.console-line
+    font-family: monospace;
+    margin: 2px;
+}
+
+And uncomment:
+
+var consoleLine = "<p class=\"console-line\"></p>";
+ 
+console = {
+    log: function (text) {
+        $("#console-log").append($(consoleLine).html(text));
+    }
+};
+
+*/
+
 // Get the human player's choice
 
 var userChoice = prompt("Do you choose rock, paper or scissors?");
