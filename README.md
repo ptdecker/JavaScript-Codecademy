@@ -5,7 +5,9 @@ See [JavaScript-Code-Academy wiki] (https://github.com/ptdecker/JavaScript-Code-
 
 This repository contains my take on the various major exercises from the [JavaScript class] (http://www.codecademy.com/tracks/javascript) at [Code Academy] (http://www.codecademy.com/).
 
-Also, fiddles exist on my JSFiddle account (list below). And, sources in the repository contain comments explaining changes needed to support execution on JSFiddle. Fiddles were provided so that non-Code Adacemy developers can run these excercises. At this point, the code used to emulate the console in JSFiddle (c.f. http://www.wkoorts.com/wkblog/2013/01/26/console-log-with-jsfiddle/) does not display arrays as cleanly as Code Academy. Hopefully, I'll address this in the future.
+Also, fiddles exist on [my JSFiddle account] (http://jsfiddle.net/user/ptdecker/fiddles/). And, sources in the repository contain comments explaining changes needed to support execution on JSFiddle. Fiddles were provided so that non-Code Adacemy developers can run these excercises. At this point, the code used to emulate the console in JSFiddle (c.f. http://www.wkoorts.com/wkblog/2013/01/26/console-log-with-jsfiddle/) does not display arrays as cleanly as Code Academy. Hopefully, I'll address this in the future.
+
+Fiddle list:
 
 * [Coin Flipper] (http://jsfiddle.net/ptdecker/NG64G/)
 * [Fibonacci Numbers] (http://jsfiddle.net/ptdecker/kCKFc/)
