@@ -13,6 +13,7 @@ Fiddle list:
 * [Fibonacci Numbers] (http://jsfiddle.net/ptdecker/kCKFc/)
 * [String Search] (http://jsfiddle.net/ptdecker/ShpqW/)
 * [Rock, Paper, Scissors] (http://jsfiddle.net/ptdecker/9Mnz3/)
+* [FizzBuzz] (http://jsfiddle.net/ptdecker/Ee8m9/)
 
 These exercises are written so that they will pass the exercise check in Code Academy. In some cases, I would implement them differently but in a way that wouldn't pass the Code Academy check. Where applicable, I've noted these in the comments.
 
