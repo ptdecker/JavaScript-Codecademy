@@ -1,3 +1,7 @@
+/**************************
+ * List Fibonacci Numbers *
+ **************************/
+
 // Calculate some Fibonacci numbers to demonstrate 'for'
 // loops, arrays, and 'if' statements.
 
