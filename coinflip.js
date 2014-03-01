@@ -31,7 +31,7 @@ console = {
 
 */
 
-// If it wasn't an excercise where Code Academy is looking for specifics,
+// If it wasn't an excercise where Codecademy is looking for specifics,
 // I would use a Ternary instead of the if-else construct
 //
 // console.log(coinFace === 0 ? "Heads! Flipping again..." : "Tails! Done flipping.")
