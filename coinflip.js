@@ -1,6 +1,6 @@
-/*
-* Better coin flipper than the lesson example
-*/
+/***************
+ * Flip a Coin *
+ ***************/
 
 /* To run this in JSFiddle (jQuery 2.0.1)
  * source: http://www.wkoorts.com/wkblog/2013/01/26/console-log-with-jsfiddle/)
